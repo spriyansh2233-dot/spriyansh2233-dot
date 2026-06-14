@@ -122,56 +122,6 @@ I believe software engineering is not just about writing code. It is about solvi
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=spriyansh2233&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=spriyansh2233&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spriyansh2233&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=spriyansh2233&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spriyansh2233&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/spriyansh2233/spriyansh2233/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # Current Focus
 
 ```yaml
