@@ -1,36 +1,42 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Priyansh%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7&text=Priyansh%20Sharma&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=28\&duration=3500\&pause=1000\&center=true\&vCenter=true\&width=900\&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Passionate+About+AI+%26+Software+Engineering;Engineering+Digital+Products+That+Matter)](https://git.io/typing-svg)
+<br>
 
-<p align="center">
-<img src="https://img.shields.io/badge/B.Tech-Engineering-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Software-Engineering-indigo?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%2FML-Enthusiast-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/India-Bhopal-blue?style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Engineering+Products+That+Create+Impact" alt="Typing SVG" />
 
-<p align="center">
+<br><br>
+
+<img src="https://img.shields.io/badge/B.Tech_Engineering-4F46E5?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full_Stack_Developer-7C3AED?style=for-the-badge&logo=codefactor&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML_Enthusiast-A855F7?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
 <a href="https://my-portfolio-six-bay-60.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/priyansh-sharma-30aa852b1">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:spriyansh2233@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/spriyansh2233">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=spriyansh2233&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/spriyansh2233?style=for-the-badge&color=7C3AED"/>
-<img src="https://img.shields.io/github/stars/spriyansh2233?style=for-the-badge&color=7C3AED"/>
-</p>
+<a href="https://www.linkedin.com/in/priyansh-sharma-30aa852b1">
+<img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:spriyansh2233@gmail.com">
+<img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/spriyansh2233">
+<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=spriyansh2233&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/spriyansh2233?style=for-the-badge&color=A855F7"/>
+<img src="https://img.shields.io/github/stars/spriyansh2233?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=4F46E5"/>
 
 </div>
 
@@ -38,16 +44,19 @@
 
 # About Me
 
-Full Stack Developer focused on building scalable, performant, and user-centric software products. My interests span software engineering, modern web development, artificial intelligence, machine learning, and cloud technologies.
+I'm **Priyansh Sharma**, a **Full Stack Developer** focused on building scalable, user-centric, and performance-driven digital products.
 
-I enjoy transforming ideas into production-ready applications while maintaining strong engineering standards, clean architecture, and exceptional user experiences.
+My interests span across modern web development, backend engineering, cloud technologies, artificial intelligence, and machine learning. I enjoy transforming ideas into production-ready applications while maintaining clean architecture, strong engineering principles, and exceptional user experiences.
+
+I believe software engineering is not just about writing code. It is about solving meaningful problems, designing maintainable systems, and creating products that deliver real value.
 
 ### Open To
 
-* Software Engineering Internships
-* Full Stack Development Roles
-* AI/ML Engineering Opportunities
-* Open Source Collaboration
+* Full Stack Development Opportunities
+* Software Engineering Roles
+* Backend Engineering Projects
+* AI/ML Collaborations
+* Open Source Contributions
 * Product Engineering Teams
 
 ---
@@ -56,170 +65,60 @@ I enjoy transforming ideas into production-ready applications while maintaining 
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,html,css" />
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap" />
 </p>
 
 ### Backend & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql,firebase" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,postman,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,linux,vscode,vercel" />
 </p>
 
 ---
 
 # AI / ML Expertise
 
+<div align="center">
+
 | Domain           | Proficiency  | Details                                  |
 | ---------------- | ------------ | ---------------------------------------- |
-| Machine Learning | Intermediate | Model Building, Evaluation, Optimization |
+| Machine Learning | Intermediate | Model Development, Training & Evaluation |
 | Deep Learning    | Intermediate | Neural Networks, CNN Fundamentals        |
-| Data Analysis    | Intermediate | Pandas, NumPy, Data Processing           |
-| Computer Vision  | Intermediate | Image Classification & Processing        |
-| Generative AI    | Intermediate | Prompt Engineering & LLM Integration     |
-| MLOps            | Beginner     | Deployment & Monitoring Concepts         |
+| Data Analysis    | Intermediate | Data Cleaning, Feature Engineering       |
+| Python Ecosystem | Advanced     | NumPy, Pandas, Scikit-Learn              |
+| AI Integration   | Intermediate | AI-Powered Web Applications              |
+| Generative AI    | Intermediate | LLM Workflows & AI Product Integration   |
 
----
-
-# Featured Projects
-
-<details>
-<summary><b>🚀 Project 01</b></summary>
-
-### Project Description
-
-Professional project summary goes here.
-
-| Category    | Details                  |
-| ----------- | ------------------------ |
-| Stack       | React, Node.js, MongoDB  |
-| Scale       | Multi-user               |
-| Performance | Optimized APIs           |
-| Security    | JWT Authentication       |
-| Impact      | Improved user experience |
-| Repository  | Add Repository Link      |
-
-</details>
-
-<details>
-<summary><b>🚀 Project 02</b></summary>
-
-### Project Description
-
-Professional project summary goes here.
-
-| Category    | Details             |
-| ----------- | ------------------- |
-| Stack       | MERN Stack          |
-| Scale       | Production Ready    |
-| Performance | Fast Response Times |
-| Security    | Role Based Access   |
-| Impact      | Real-world Use Case |
-| Repository  | Add Repository Link |
-
-</details>
-
-<details>
-<summary><b>🚀 Project 03</b></summary>
-
-### Project Description
-
-Professional project summary goes here.
-
-| Category    | Details               |
-| ----------- | --------------------- |
-| Stack       | AI / ML + Web         |
-| Scale       | Scalable Architecture |
-| Performance | Efficient Processing  |
-| Security    | Secure Deployment     |
-| Impact      | Business Value        |
-| Repository  | Add Repository Link   |
-
-</details>
-
----
-
-# Experience
-
-### Software Developer Intern
-
-**Company Name**
-
-**Duration**
-
-* Developed scalable features and backend services.
-* Improved performance and application reliability.
-* Collaborated with cross-functional teams.
-* Participated in code reviews and agile workflows.
-
-**Skills:** `React` `Node.js` `MongoDB` `REST APIs`
+</div>
 
 ---
 
 # Achievements
 
-| Recognition             | Details          |
-| ----------------------- | ---------------- |
-| Competitive Programming | Add Achievement  |
-| Open Source             | Add Contribution |
-| Academic Excellence     | Add Achievement  |
-| Technical Leadership    | Add Achievement  |
+<div align="center">
 
----
+| Recognition            | Details                                                                       |
+| ---------------------- | ----------------------------------------------------------------------------- |
+| Full Stack Development | Built modern end-to-end web applications using industry-standard technologies |
+| Product Engineering    | Focused on scalable architectures and real-world software solutions           |
+| AI/ML Learning         | Actively exploring machine learning and intelligent application development   |
+| Continuous Learning    | Consistently improving DSA, backend systems, and software engineering skills  |
+| Open Source Mindset    | Passionate about collaboration and knowledge sharing                          |
 
-# Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-6A1B9A?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge\&logo=cisco)
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</p>
+</div>
 
 ---
 
@@ -231,6 +130,12 @@ Professional project summary goes here.
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=spriyansh2233&theme=tokyonight&hide_border=true"/>
 
+</div>
+
+<br>
+
+<div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spriyansh2233&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -241,7 +146,7 @@ Professional project summary goes here.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=spriyansh2233&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=spriyansh2233&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -251,7 +156,7 @@ Professional project summary goes here.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spriyansh2233&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spriyansh2233&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -272,55 +177,59 @@ Professional project summary goes here.
 ```yaml
 Learning:
   - Advanced Data Structures & Algorithms
-  - System Design
+  - System Design Fundamentals
   - Cloud Architecture
+  - Machine Learning
 
 Building:
-  - Full Stack Applications
-  - AI Powered Products
-  - Open Source Projects
+  - Full Stack Web Applications
+  - Scalable Backend Systems
+  - AI-Powered Products
+  - Portfolio & Personal Brand
 
 Exploring:
   - Generative AI
-  - LLM Applications
-  - Scalable Systems
+  - Modern SaaS Architectures
+  - DevOps Workflows
+  - Distributed Systems
 
-Open_To:
-  - Internships
-  - Full Time Opportunities
+Open To:
+  - Software Engineering Roles
+  - Full Stack Development
   - Open Source Collaboration
+  - AI/ML Projects
 ```
 
 ---
 
 # Connect
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:spriyansh2233@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/priyansh-sharma-30aa852b1">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/spriyansh2233">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://my-portfolio-six-bay-60.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-*"Engineering products that scale, solve real problems, and create lasting impact."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+> "Building software that is scalable, reliable, and impactful."
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
